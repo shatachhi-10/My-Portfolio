@@ -16,7 +16,7 @@ const Home = () => {
           <div class="text">
             Hello, I'm <span class="highlight">Shatachhi Nigam</span>.
             <br/>
-            I'm a full-stack web developer.
+            I'm a front-end web developer.
           </div>
        <div  className='view'>
        <NavLink className='ancher' to="/Portfolio"> <Button className='m-2 p-2 homebtn' variant="contained">

@@ -10,7 +10,7 @@ const AboutBottom = () => {
             </div>
               <div className="card-body">
                  <h5 className="card-title">Who's this guy?</h5>
-                 <p className="card-text">I'm a full-stack web developer.
+                 <p className="card-text">I'm a frond-end web developer.
              I have serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
              Let's make something special.</p>
                </div>
@@ -29,24 +29,24 @@ const AboutBottom = () => {
           name="JavaScript"
         />
         <Bar
-          width="80%"
+          width="70%"
           name="React"
         />
         <Bar
-          width="80%"
-          name="Bootstrap"
+          width="70%"
+          name="Tailwind CSS"
         />
         <Bar
           width="70%"
-          name="Node.js"
+          name="Operating System"
         />
         <Bar
-          width="60%"
-          name="Express.js"
+          width="70%"
+          name="DBMS"
         />
         <Bar
-          width="65%"
-          name="MongoDB"
+          width="70%"
+          name="OOP's"
         />
       </div>
    </>

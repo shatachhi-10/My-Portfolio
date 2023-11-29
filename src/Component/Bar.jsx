@@ -7,9 +7,9 @@ const Bar = (props) => {
     <div className='inner' style={{ width: props.width}}>
        {props.name}
     </div>
-    <div className='percent'>
+    {/* <div className='percent'>
       {props.width}
-    </div>
+    </div> */}
     </div>
   )
 }
