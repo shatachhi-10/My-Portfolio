@@ -18,9 +18,6 @@ const App = () => {
     <>
      <Navbar/>
      {/* <Home/> */}
-
-     
-    
      <Switch>
       <Route  exact path='/' component={Home}/>
       <Route  exact path='/About' component={About}/>

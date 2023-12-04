@@ -5,7 +5,7 @@ import { CgWebsite } from 'react-icons/cg';
 import { AiOutlineBulb } from 'react-icons/ai';
 import { IoIosRocket } from 'react-icons/io';
 import AboutBottom from './AboutBottom';
-import Bar from './Bar';
+
 const About = () => {
   return (
     <div>
@@ -33,7 +33,7 @@ const About = () => {
         title="Dynamic"
         text="Websites don't have to be static, I love making pages come to life."
       />
-      
+  
    </div>
    <div className='aboutbottom'>
     <AboutBottom/>

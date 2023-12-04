@@ -1,10 +1,6 @@
 *{
   font-family: 'raleway';
-  
 }
-
-
-
 
 
 .bckcolor{
@@ -118,6 +114,7 @@ margin-right:25px !important;
   /* left:50px; */
   box-sizing: border-box;
 }
+
 .hexagon::before, 
 .hexagon::after {
   content: "";
@@ -128,6 +125,7 @@ margin-right:25px !important;
   border-top: 38px solid transparent;
   border-bottom: 45px solid transparent;
 }
+
 .hexagon::before {
   left: -31px;
   border-right: 31px solid #04c2c9;
