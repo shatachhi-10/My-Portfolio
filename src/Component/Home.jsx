@@ -20,7 +20,7 @@ const Home = () => {
           </div>
        <div  className='view'>
        <NavLink className='ancher' to="/Portfolio"> <Button className='m-2 p-2 homebtn' variant="contained">
-        <span className='spanview'>View my work</span>
+        <span className='spanview'>View my work baacchee</span>
         </Button>
        </NavLink>
         </div>
