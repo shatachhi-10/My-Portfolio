@@ -19,6 +19,7 @@ const Home = () => {
             I'm a front-end web developer.
           </div>
        <div  className='view'>
+        {/* button */}
        <NavLink className='ancher' to="/Portfolio"> <Button className='m-2 p-2 homebtn' variant="contained">
         <span className='spanview'>View my work</span>
         </Button>
