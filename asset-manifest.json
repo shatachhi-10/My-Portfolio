@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.c611597b.css",
-    "main.js": "/My-Portfolio/static/js/main.54a6bfde.js",
+    "main.js": "/My-Portfolio/static/js/main.64ea876d.js",
     "static/media/Gallery.png": "/My-Portfolio/static/media/Gallery.9f63eab725c6a13e8a45.png",
     "static/media/ecommerce.png": "/My-Portfolio/static/media/ecommerce.98dc68656db1912b466b.png",
     "static/media/myImage.png": "/My-Portfolio/static/media/myImage.f16ff3d014db257b9a28.png",
@@ -46,10 +46,10 @@
     "static/media/raleway-latin-100.woff2": "/My-Portfolio/static/media/raleway-latin-100.16d7dcebbcc7dee6b7c8.woff2",
     "index.html": "/My-Portfolio/index.html",
     "main.c611597b.css.map": "/My-Portfolio/static/css/main.c611597b.css.map",
-    "main.54a6bfde.js.map": "/My-Portfolio/static/js/main.54a6bfde.js.map"
+    "main.64ea876d.js.map": "/My-Portfolio/static/js/main.64ea876d.js.map"
   },
   "entrypoints": [
     "static/css/main.c611597b.css",
-    "static/js/main.54a6bfde.js"
+    "static/js/main.64ea876d.js"
   ]
 }
